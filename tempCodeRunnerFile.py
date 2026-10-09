@@ -1,1 +1,1 @@
-print(b1.get_status())
+
